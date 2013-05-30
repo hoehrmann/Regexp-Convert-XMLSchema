@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Regexp-Convert-XMLSchema.t
+lib/Regexp/Convert/XMLSchema.pm
